@@ -34,5 +34,7 @@ Requisitos não funcionais:
 - Manutenabilidade: A aplicação deve ser fácil de manter e atualizar.
 
 ## E). Diagrama de Caso de Uso
+![image](https://github.com/MeloRPN/ES-Trabalho_Pratico/assets/102264026/0b95277b-3848-496e-a022-4d4179a7d63b)
+
 
 
