@@ -2,14 +2,15 @@
 
 Trabalho Prático - Engenharia de Software -
 
--TP1 - Workshop de Requisitos e Planejamento Inicial
--TP2 - Projeto de Software e Plano de Testes
--TP3 - Sprint 1
--TP4 - Sprint 2
--TP5 - Entrega Final
+- TP1 - Workshop de Requisitos e Planejamento Inicial
+- TP2 - Projeto de Software e Plano de Testes
+- TP3 - Sprint 1
+- TP4 - Sprint 2
+- TP5 - Entrega Final
 
-TP1 - Workshop de Requisitos e Planejamento Inicial
-Painel de Dados - SGD
+## Workshop de Requisitos e Planejamento Inicial
+
+# Painel de Dados - SGD
 
 ## A). Objetivo
 Construir uma visualização de dados que o usuário possa identificar de forma clara e objetiva a evolução dos Indicadores dos Objetivos de Desenvolvimento Sustentável ([ODS](https://brasil.un.org/pt-br/sdgs)) em nível global.
