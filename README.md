@@ -2,11 +2,11 @@
 
 Trabalho Prático - Engenharia de Software -
 
-TP1 - Workshop de Requisitos e Planejamento Inicial
-TP2 - Projeto de Software e Plano de Testes
-TP3 - Sprint 1
-TP4 - Sprint 2
-TP5 - Entrega Final
+-TP1 - Workshop de Requisitos e Planejamento Inicial
+-TP2 - Projeto de Software e Plano de Testes
+-TP3 - Sprint 1
+-TP4 - Sprint 2
+-TP5 - Entrega Final
 
 TP1 - Workshop de Requisitos e Planejamento Inicial
 Painel de Dados - SGD
